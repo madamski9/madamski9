@@ -21,9 +21,6 @@ Here are some of the technologies I work with:
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=flat&logo=postgresql&logoColor=white)
 
-### GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=madamski9&show_icons=true&theme=radical)
-
 ---
 Feel free to explore my repositories and reach out if you’d like to collaborate!
 
