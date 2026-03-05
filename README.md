@@ -66,30 +66,20 @@ I enjoy building scalable applications and learning new technologies.
 
 ### [JobFinderApp](https://github.com/jankotanime/job-finder-app)
 
-Mobile application for finding temporary jobs.
-
-**Stack:** React Native, Spring Boot, Angular, Cloudflare, Docker, EJS, Google Auth, Nginx
-
-I developed the entire **mobile application using React Native**, including UI implementation, API integration and user interaction.
+Mobile application for discovering short-term and freelance jobs.
+I was fully responsible for the **mobile app**, developing the UI, integrating with backend APIs, and handling authentication and user interactions. The app provides a simple and intuitive experience for job seekers on mobile devices.
 
 ---
 
 ### [IO-Tennis-Predict](https://github.com/madamski9/IO-Tennis-Predict)
 
-Machine learning project predicting **ATP tennis match results** using historical data.
-
-**Stack:** Python, XGBoost, Neural Networks
-
-The project includes advanced **feature engineering** and a custom **ELO ranking system**.
+Machine learning project predicting ATP tennis match results from historical data.
+I implemented data preprocessing, feature engineering, and experimented with models like XGBoost and neural networks. The project also uses a custom ELO ranking system to improve prediction accuracy.
 
 ---
 
 ### [PackageDeliveryApp](https://github.com/madamski9/PackageDeliveryApp)
 
-Simulation of a **parcel locker delivery system**.
+Simulation of a parcel locker delivery system with real-time updates.
+Users can create packages, track deliveries, and assign locker slots, while a simulated courier updates statuses automatically. The project focuses on logistics workflow and secure user authentication.
 
-Users can create packages, track deliveries and assign parcel machine slots while a simulated courier updates delivery status automatically.
-
-**Stack:** Next.js, WebSockets, MQTT, PostgreSQL, JWT authentication, HTTPS.
-
----
