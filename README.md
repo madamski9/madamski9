@@ -68,7 +68,7 @@ I enjoy building scalable applications and learning new technologies.
 
 Mobile application for finding temporary jobs.
 
-**Stack:** React Native, Spring Boot
+**Stack:** React Native, Spring Boot, Angular, Cloudflare, Docker, EJS, Google Auth, Nginx
 
 I developed the entire **mobile application using React Native**, including UI implementation, API integration and user interaction.
 
