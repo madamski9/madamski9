@@ -2,9 +2,9 @@
 
 # Hi there! Welcome to my GitHub profile
 
-Third-year **Computer Science student at the University of Gdańsk**
-Interested in **full-stack and mobile development**
-I enjoy building scalable applications and learning new technologies.
+Third-year Computer Science student at the University of Gdańsk with a strong interest in full-stack and mobile development.
+I enjoy building scalable applications and working across the JavaScript ecosystem, including **React**, **React Native**, and modern frontend tools.
+I also have experience developing backend services using **Java** and **Spring Boot**, building REST APIs and integrating them with **web** and **mobile** applications.
 
 </div>
 
