@@ -35,6 +35,14 @@ I also have experience developing backend services using **Java** and **Spring B
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=flat\&logo=springboot\&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-%2302303A.svg?style=flat\&logo=gradle\&logoColor=white)
 ![Lombok](https://img.shields.io/badge/Lombok-red?style=flat)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+
+### Machine Learning
+![XGBoost](https://img.shields.io/badge/XGBoost-111111?style=flat&logo=xgboost&logoColor=white)
+![Scikit--Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
 
 ### Web
 
@@ -71,15 +79,13 @@ I was fully responsible for the **mobile app**, developing the UI, integrating w
 
 ---
 
+### [AI-Powered-Phishing-Detection](https://github.com/madamski9/AI-Powered-Phishing-Detection)
+
+Mobile application that detects phishing links and emails in real time using machine learning. The system is built with a React Native frontend, a FastAPI backend, and a Dockerized ML service, with Firebase used for authentication and mobile integration.
+
+---
+
 ### [IO-Tennis-Predict](https://github.com/madamski9/IO-Tennis-Predict)
 
 Machine learning project predicting ATP tennis match results from historical data.
 I implemented data preprocessing, feature engineering, and experimented with models like XGBoost and neural networks. The project also uses a custom ELO ranking system to improve prediction accuracy.
-
----
-
-### [PackageDeliveryApp](https://github.com/madamski9/PackageDeliveryApp)
-
-Simulation of a parcel locker delivery system with real-time updates.
-Users can create packages, track deliveries, and assign locker slots, while a simulated courier updates statuses automatically. The project focuses on logistics workflow and secure user authentication.
-
